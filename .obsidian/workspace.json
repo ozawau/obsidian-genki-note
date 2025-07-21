@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c25534dc707679d6",
+        "id": "7283855d1b29282b",
         "type": "tabs",
         "children": [
           {
-            "id": "be3c7c9a0cea4c86",
+            "id": "f40c68dca862bfe7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vocabulary/week days.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "week days"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vocabulary/week days.md",
+                "file": "grammar/The 10 Most Useful Japanese Sentence Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for week days"
+              "title": "Backlinks for The 10 Most Useful Japanese Sentence Patterns"
             }
           },
           {
@@ -113,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vocabulary/week days.md",
+                "file": "grammar/The 10 Most Useful Japanese Sentence Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from week days"
+              "title": "Outgoing links from The 10 Most Useful Japanese Sentence Patterns"
             }
           },
           {
@@ -142,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vocabulary/week days.md",
+                "file": "grammar/The 10 Most Useful Japanese Sentence Patterns.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of week days"
+              "title": "Outline of The 10 Most Useful Japanese Sentence Patterns"
             }
           }
         ]
@@ -170,6 +166,8 @@
   },
   "active": "4d56d62a0fc23fc6",
   "lastOpenFiles": [
+    "genki/book1/lesson0/1. Greetings and numbers.md",
+    "vocabulary/week days.md",
     "genki/book1/lesson5/1. A Trip to Okinawa 沖縄(おきなわ)旅行(りょこう).md",
     "hiragana & katakana/katakana/9. ヤユヨ.md",
     "hiragana & katakana/katakana/8. ラリルレロ.md",
