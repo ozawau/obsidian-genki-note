@@ -1,0 +1,1 @@
+# obsidian-genki-note
