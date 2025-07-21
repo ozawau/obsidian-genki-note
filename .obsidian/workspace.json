@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7283855d1b29282b",
+        "id": "1549a8035921b378",
         "type": "tabs",
         "children": [
           {
-            "id": "f40c68dca862bfe7",
+            "id": "a522ea90ad881688",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 219.5
   },
   "right": {
     "id": "f65f1c562675f5ad",
@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grammar/The 10 Most Useful Japanese Sentence Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The 10 Most Useful Japanese Sentence Patterns"
+              "title": "Backlinks"
             }
           },
           {
@@ -109,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grammar/The 10 Most Useful Japanese Sentence Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The 10 Most Useful Japanese Sentence Patterns"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grammar/The 10 Most Useful Japanese Sentence Patterns.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The 10 Most Useful Japanese Sentence Patterns"
+              "title": "Outline"
             }
           }
         ]
@@ -164,8 +161,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d56d62a0fc23fc6",
+  "active": "a522ea90ad881688",
   "lastOpenFiles": [
+    "genki/book1/lesson2/grammar/2. The end of sentence.md",
+    "vocabulary/locations.md",
+    "hiragana & katakana/hiragana/3. さしすせそ.md",
+    "hiragana & katakana/hiragana/2. かきくけこ.md",
+    "hiragana & katakana/hiragana/1. あいうえお.md",
+    "resources/images/Pasted image 20240615112137.png",
+    "resources/images/Pasted image 20240615111035.png",
+    "resources/images/Pasted image 20240615104932.png",
+    "grammar/The 10 Most Useful Japanese Sentence Patterns.md",
     "genki/book1/lesson0/1. Greetings and numbers.md",
     "vocabulary/week days.md",
     "genki/book1/lesson5/1. A Trip to Okinawa 沖縄(おきなわ)旅行(りょこう).md",
@@ -186,15 +192,10 @@
     "hiragana & katakana/hiragana/6. はひふへほ.md",
     "hiragana & katakana/hiragana/5. なにぬねの.md",
     "hiragana & katakana/hiragana/4. たちつてと.md",
-    "hiragana & katakana/hiragana/3. さしすせそ.md",
-    "hiragana & katakana/hiragana/2. かきくけこ.md",
     "hiragana & katakana/hiragana/10. わをん.md",
-    "hiragana & katakana/hiragana/1. あいうえお.md",
     "hiragana & katakana/hiragana",
     "hiragana & katakana",
     "New folder",
-    "README.md",
-    "genki/book1/lesson4/2. Vocabulary of lesson 4.md",
     "resources/images/Pasted image 20240630150419.png",
     "resources/images/Pasted image 20240630145830.png",
     "resources/images/Pasted image 20240630145820.png",
@@ -202,9 +203,6 @@
     "resources/images/Pasted image 20240629205835.png",
     "resources/images/Pasted image 20240629204554.png",
     "resources/images/Pasted image 20240629204544.png",
-    "resources/images/Pasted image 20240627224234.png",
-    "resources/images/Pasted image 20240626214137.png",
-    "resources/images/Pasted image 20240626204116.png",
     "resources/images"
   ]
 }
