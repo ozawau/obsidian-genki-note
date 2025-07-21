@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1549a8035921b378",
+        "id": "c0049ccea0db2ca6",
         "type": "tabs",
         "children": [
           {
-            "id": "a522ea90ad881688",
+            "id": "166f6f0996489043",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "genki/book1/lesson1/2. Vocabulary of lesson1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Vocabulary of lesson1"
             }
           }
         ]
@@ -161,8 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a522ea90ad881688",
+  "active": "166f6f0996489043",
   "lastOpenFiles": [
+    "genki/book1/lesson1/1. New friends あたらしいともだち.md",
+    "genki/book1/lesson0/1. Greetings and numbers.md",
+    "vocabulary/Usages of numbers.md",
     "genki/book1/lesson2/grammar/2. The end of sentence.md",
     "vocabulary/locations.md",
     "hiragana & katakana/hiragana/3. さしすせそ.md",
@@ -172,7 +179,6 @@
     "resources/images/Pasted image 20240615111035.png",
     "resources/images/Pasted image 20240615104932.png",
     "grammar/The 10 Most Useful Japanese Sentence Patterns.md",
-    "genki/book1/lesson0/1. Greetings and numbers.md",
     "vocabulary/week days.md",
     "genki/book1/lesson5/1. A Trip to Okinawa 沖縄(おきなわ)旅行(りょこう).md",
     "hiragana & katakana/katakana/9. ヤユヨ.md",
@@ -191,8 +197,6 @@
     "hiragana & katakana/hiragana/7. まみむめも.md",
     "hiragana & katakana/hiragana/6. はひふへほ.md",
     "hiragana & katakana/hiragana/5. なにぬねの.md",
-    "hiragana & katakana/hiragana/4. たちつてと.md",
-    "hiragana & katakana/hiragana/10. わをん.md",
     "hiragana & katakana/hiragana",
     "hiragana & katakana",
     "New folder",
