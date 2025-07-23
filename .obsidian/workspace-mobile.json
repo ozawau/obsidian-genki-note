@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "c771c35ddfdd5879",
+    "type": "split",
+    "children": [
+      {
+        "id": "c97ea2eefd4bb28a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61923bd3605260f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "genki/book1/lesson2/1. Shopping 買い物.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Shopping 買い物"
+            },
+            "group": "55fd04242b92f896"
+          }
+        ]
+      },
+      {
+        "id": "25a19731efe804c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63446aaf9a3d126b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "genki/book1/lesson2/1. Shopping 買い物.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Shopping 買い物"
+            },
+            "group": "55fd04242b92f896"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abd110aaf2811cb8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d31dc5dfb6909074",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "5ea8e054b1309bda",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "018cbb7305d4c27c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "3e2e889b245ccc2f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9d0fe0f7728a41c0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a883547b689adcff",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "genki/book1/lesson2/1. Shopping 買い物.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "2d4cf0ad2d65d318",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "genki/book1/lesson0/1. Greetings and numbers.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "3b559654584db0fa",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "genki/book1/lesson0/1. Greetings and numbers.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "61923bd3605260f1",
+  "lastOpenFiles": [
+    "genki/book1/lesson2/2. Vocabulary of lesson 2.md",
+    "genki/book1/lesson2/1. Shopping 買い物.md",
+    "genki/book1/lesson2/grammar/1. This and That.md",
+    "genki/book1/lesson1/3. Basic Japanese Statements.md",
+    "genki/book1/lesson1/2. Vocabulary of lesson1.md",
+    "genki/book1/lesson1/1. New friends あたらしいともだち.md",
+    "vocabulary/Usages of numbers.md",
+    "genki/book1/lesson0/1. Greetings and numbers.md",
+    "hiragana & katakana/hiragana/1. あいうえお.md"
+  ]
+}
