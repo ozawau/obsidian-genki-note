@@ -13,35 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "genki/book1/lesson2/1. Shopping 買い物.md",
+                "file": "genki/book1/lesson3/1. Making a Date  デートの約束(やくそく).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Shopping 買い物"
-            },
-            "group": "55fd04242b92f896"
-          }
-        ]
-      },
-      {
-        "id": "25a19731efe804c8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "63446aaf9a3d126b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "genki/book1/lesson2/1. Shopping 買い物.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Shopping 買い物"
-            },
-            "group": "55fd04242b92f896"
+              "title": "1. Making a Date  デートの約束(やくそく)"
+            }
           }
         ]
       }
@@ -59,7 +37,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -120,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "genki/book1/lesson2/1. Shopping 買い物.md",
+            "file": "genki/book1/lesson3/1. Making a Date  デートの約束(やくそく).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -177,9 +155,12 @@
   },
   "active": "61923bd3605260f1",
   "lastOpenFiles": [
+    "genki/book1/lesson3/grammar/3. The particles をでにへ.md",
+    "genki/book1/lesson3/1. Making a Date  デートの約束(やくそく).md",
+    "genki/book1/lesson2/grammar/2. The end of sentence.md",
+    "genki/book1/lesson2/grammar/1. This and That.md",
     "genki/book1/lesson2/2. Vocabulary of lesson 2.md",
     "genki/book1/lesson2/1. Shopping 買い物.md",
-    "genki/book1/lesson2/grammar/1. This and That.md",
     "genki/book1/lesson1/3. Basic Japanese Statements.md",
     "genki/book1/lesson1/2. Vocabulary of lesson1.md",
     "genki/book1/lesson1/1. New friends あたらしいともだち.md",
